@@ -21,4 +21,4 @@ Cách build
 
 Kết quả
 Serial sẽ hiển thị:
-ADC(avg): 1234 | Voltage: 0.995 V
+ADC(avg): 1234 (0-4065) | Voltage: 0.995 (0 - 3.3) V
